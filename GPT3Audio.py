@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
-pip install openai
-pip install streamlit
+!pip install openai
+!pip install streamlit
 
 # In[3]:
 
