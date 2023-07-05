@@ -1,0 +1,178 @@
+Admit_Week,Admit_Month,Gender,Marital_Status,Insurance_Provider,Tobacco_User,Depression,ICU,Drug_Abuse,Mood_Disorder,Diabetes,Anxiety,Obesity,Dementia,Age,Bmi,Weight,Height,Pulse,Temperature,Pat_Pain_Score,ER_Visits,IP_Visits,Chronic_Conditions,Glucose,Condition,Care_Plan_Following_Discharge,Cost_Of_Initial_Stay
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,84.7,30.3,160,61,69,98,8,1,0,2,96,Pneumonia,Skilled Nursing Facility,7155.8
+Monday,Jun,F,Married,Commercial,Quit,No,No,No,No,No,No,No,No,63,15.94,93,64,68,98,0,3,0,6,164,Pneumonia,Home Health,13201.49
+Monday,Jun,M,Married,Medicare,Quit,No,Yes,Yes,No,No,No,No,No,71.7,37.14,216,64,92,98,0,1,0,3,256,Heart_Failure,Skilled Nursing Facility,12459.12
+Monday,Jun,F,Married,Medicare,Never,No,No,No,Yes,No,No,No,No,68.7,23.46,132,63,94,98,0,0,1,1,111,Pneumonia,Discharged to Home,10677.21
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,Yes,No,No,No,No,53.2,17.07,126,72,88,98,0,2,0,8,97,Pneumonia,Skilled Nursing Facility,5640.8
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,84,24.59,134,62,69,98,0,1,0,6,96,Heart_Failure,Discharged to Home,2697.39
+Monday,Jun,M,Single,Commercial,Quit,No,No,No,No,No,No,No,No,89.3,25,205,72,68,97,0,2,0,7,101,Heart_Failure,Expired,1301.44
+Monday,Jun,M,Married,Medicare,Yes,No,No,No,No,No,No,Yes,No,62,38.46,291,73,79,97,0,1,0,1,220,Heart_Failure,Discharged to Home,7724.4
+Monday,Jun,F,Married,Medicaid,Quit,Yes,No,No,No,No,No,Yes,No,53.9,54.47,369,67,74,96,0,8,0,12,230,Heart_Failure,Home Health,27944.39
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,85.9,30.07,222,72,88,97,1,0,0,5,109,Pneumonia,Skilled Nursing Facility,5361.65
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,81.7,39.24,274,70,78,99,0,0,0,10,93,Heart_Failure,Discharged to Home,3390.64
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,Yes,Yes,No,54.9,49.38,288,64,70,98,0,0,0,9,324,Pneumonia,Discharged to Home,7838.11
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,83.1,33.54,177,61,70,98,0,3,0,6,127,Heart_Failure,Hospice,4076.67
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,85.7,25.09,161,67,72,97,0,0,0,11,148,Heart_Failure,Home Health,19335.41
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,77.5,30.98,181,64,58,97,3,0,0,7,254,Pneumonia,Home Health,10274.26
+Monday,Jun,M,Married,Commercial,Never,No,No,No,No,No,No,No,No,70.3,33.45,214,67,70,98,2,1,1,4,181,Heart_Failure,Home Health,13592.26
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,87.5,27.65,151,62,61,98,0,1,0,10,147,Pneumonia,Discharged to Home,7159.36
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,Yes,Yes,No,71.9,42.77,307,,82,98,0,0,0,9,161,Heart_Failure,Discharged to Home,8482.08
+Monday,Jun,F,Single,Medicare,Yes,No,No,No,No,Yes,No,No,No,54.7,42.04,276,68,66,97,3,1,0,8,128,Heart_Failure,Discharged to Home,4695.39
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,80,24.23,139,64,112,98,2,0,0,5,149,Pneumonia,Discharged to Home,3290.19
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,88.5,26.44,145,62,75,97,5,3,0,10,89,Pneumonia,Skilled Nursing Facility,15970.39
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,75.6,36.51,262,71,72,97,3,2,0,17,97,Heart_Failure,Home Health,19834.24
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,78.1,22.93,149,68,69,96,0,1,1,3,128,Heart_Failure,Discharged to Home,11344.34
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,73.5,27.3,185,69,56,98,0,0,2,9,200,Heart_Failure,Discharged to Home,8804.43
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,82.7,34.73,242,70,66,98,1,3,0,14,88,Heart_Failure,Skilled Nursing Facility,7284.27
+Monday,Jun,F,Married,Medicaid,Quit,No,No,No,No,No,No,No,No,45.6,22.17,133,65,88,98,8,6,0,4,141,Pneumonia,Home Health,7702.87
+Monday,Jun,M,Married,Commercial,Never,No,No,No,No,No,No,No,No,84.2,28.18,191,69,76,97,3,3,0,5,99,Pneumonia,Skilled Nursing Facility,4875.78
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,76.1,19.78,146,72,67,96,0,0,0,5,397,Pneumonia,Home Health,7359.59
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,64.7,14,102,73,69,99,5,4,2,13,153,Heart_Failure,Home Health,5125.9
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,81.4,26.75,115,55,79,96,0,0,0,7,124,Heart_Failure,Home Health,3773.32
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,79.1,32.79,242,72,72,98,6,0,0,6,126,Heart_Failure,Skilled Nursing Facility,35250.84
+Monday,Jun,F,Married,Medicare,Never,No,No,No,No,No,No,No,No,87.4,30.72,168,62,97,97,5,3,0,1,179,Pneumonia,Home Health,15132.45
+Monday,Jun,F,Married,Medicare,Never,No,No,No,No,No,No,No,No,74.3,31.6,178,63,99,98,0,1,0,14,156,Heart_Failure,Home Health,4682.34
+Monday,Jun,M,Single,Medicare,Quit,No,No,Yes,No,No,Yes,No,No,85.3,21.85,144,68,71,99,0,3,0,1,103,Pneumonia,Skilled Nursing Facility,5694.24
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,70.1,34.35,213,66,91,99,3,0,0,15,149,Heart_Failure,Skilled Nursing Facility,45077.73
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,Yes,82.9,19.59,100,60,86,98,0,0,0,12,166,Pneumonia,Expired,11349.02
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,85.7,29.54,151,60,74,98,0,3,0,4,124,Heart_Failure,Home Health,6588.04
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,75.2,27.73,199,71,77,98,2,0,0,5,95,Heart_Failure,Discharged to Home,2069.83
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,83,24.87,183,72,83,98,0,1,0,1,99,Heart_Failure,Skilled Nursing Facility,7422.62
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,74,26.24,148,63,94,98,0,0,0,2,122,Pneumonia,Home Health,12419.54
+Monday,Jun,M,Married,Medicare,Yes,No,No,No,No,No,No,No,No,40.4,40.76,292,71,77,98,7,4,0,1,97,Pneumonia,Discharged to Home,2023.16
+Monday,Jun,F,Single,Medicaid,Yes,No,Yes,No,No,No,No,No,No,59.5,19.26,123,67,95,96,1,0,1,4,178,Heart_Failure,Discharged to Home,6068.96
+Monday,Jun,M,Single,Medicaid,Quit,No,No,No,No,No,Yes,No,No,61.3,29.38,188,67,67,98,8,1,0,3,144,Heart_Failure,Skilled Nursing Facility,21419.35
+Monday,Jun,F,Single,Commercial,Quit,No,No,No,No,Yes,Yes,No,No,54.3,52.42,315,65,68,98,7,12,1,15,341,Pneumonia,Home Health,11191.01
+Monday,Jun,M,Married,Medicare,Yes,No,No,No,No,No,No,No,No,76,26.13,177,,70,97,0,0,0,2,149,Pneumonia,Discharged to Home,10104.63
+Monday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,69.3,23.47,150,67,80,98,0,0,0,2,98,Pneumonia,Discharged to Home,6008.41
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,81.2,22.77,133,64,65,96,2,0,0,1,139,Pneumonia,Skilled Nursing Facility,16196.76
+Monday,Jun,M,Single,Medicare,Never,No,No,No,No,No,No,No,No,82,39.13,257,68,54,98,2,0,0,6,91,Heart_Failure,Discharged to Home,4440.43
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,73.7,26.31,173,68,82,98,6,0,0,5,97,Pneumonia,Discharged to Home,2480.84
+Monday,Jun,M,Single,Commercial,Never,No,No,No,No,No,No,No,Yes,31.8,45.77,319,70,78,98,0,7,0,7,129,Pneumonia,Discharged to Home,6585.87
+Monday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,No,No,No,78.6,22.43,139,66,59,98,3,3,0,3,211,Heart_Failure,Home Health,3905.06
+Monday,Jun,M,Married,Medicare,Quit,Yes,No,No,No,No,No,No,No,80.4,28.2,185,68,76,99,6,3,0,7,149,Pneumonia,Skilled Nursing Facility,6790.48
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,81.3,29.2,204,70,84,98,0,0,1,7,178,Heart_Failure,Hospice,8344.52
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,Yes,No,68,46.73,272,64,55,98,0,2,0,6,120,Heart_Failure,Discharged to Home,3123.92
+Monday,Jun,F,Married,Commercial,Never,No,No,No,No,No,No,Yes,No,37.2,21.23,144,69,68,98,3,1,0,1,94,Pneumonia,Discharged to Home,3146.45
+Monday,Jun,M,Single,Medicare,Yes,No,No,No,No,No,No,Yes,No,58.3,45.08,314,70,68,98,6,1,0,10,76,Heart_Failure,Skilled Nursing Facility,11655.68
+Monday,Jun,F,Married,Medicare,Never,No,No,No,No,Yes,Yes,No,Yes,75.6,25.24,156,66,95,99,2,3,1,7,228,Heart_Failure,Discharged to Home,3017.22
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,74.9,25,180,74,63,98,2,0,0,4,110,Heart_Failure,Discharged to Home,4788.46
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,85,40.61,229,63,86,98,0,0,0,13,248,Heart_Failure,Skilled Nursing Facility,7320.06
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,87.5,24.36,180,72,58,98,0,7,0,4,115,Heart_Failure,Discharged to Home,7104.01
+Monday,Jun,F,Married,Commercial,Yes,No,No,No,No,No,No,No,Yes,56.4,26.34,131,59,88,98,0,7,1,8,98,Heart_Failure,Home Health,3472.05
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,81.7,27.23,179,68,67,97,5,6,1,7,135,Pneumonia,Skilled Nursing Facility,10281.49
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,85.1,38.05,201,61,78,98,2,0,0,15,98,Pneumonia,Home Health,8930.79
+Monday,Jun,M,Married,Medicare,Quit,No,Yes,No,No,No,Yes,No,No,82.4,33.21,206,66,120,99,5,6,0,27,88,Heart_Failure,Expired,8542.72
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,90,22.04,154,70,76,97,0,2,0,6,90,Pneumonia,Home Health,3698.8
+Monday,Jun,M,Married,Commercial,Never,No,No,No,No,No,No,Yes,No,63.9,41.71109348,284,69,59,99,0,3,0,7,120,Pneumonia,Skilled Nursing Facility,10804.2
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,85.9,19.38,109,63,93,98,4,1,0,1,88,Heart_Failure,Skilled Nursing Facility,14429.7
+Monday,Jun,M,Married,Medicare,Never,No,No,No,No,No,No,No,No,81.9,35.27,260,72,72,98,0,1,0,7,204,Pneumonia,Home Health,9833.86
+Monday,Jun,F,Single,Medicaid,Yes,No,No,No,No,No,Yes,No,No,55.5,39.56,231,64,67,98,2,2,0,4,133,Heart_Failure,Home Health,5135.52
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,89.5,21.59,114,61,52,96,0,3,0,3,98,Pneumonia,Discharged to Home,18988.51
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,Yes,No,54.6,46.67,272,64,93,98,8,6,1,5,182,Heart_Failure,Discharged to Home,5424.22
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,66.6,26.39,174,,95,97,0,4,0,4,115,Heart_Failure,Discharged to Home,1838.7
+Monday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,No,No,Yes,85.4,31.58,184,64,83,97,7,3,2,5,121,Pneumonia,Home Health,5540.75
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,Yes,88.9,26.47,146,62,65,98,0,1,2,5,83,Heart_Failure,Skilled Nursing Facility,4645.39
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,82.9,37.05,223,65,88,98,2,0,0,6,187,Heart_Failure,Skilled Nursing Facility,7791.85
+Monday,Jun,F,Single,Medicaid,Yes,No,No,No,No,No,No,No,No,39.3,36.61,213,64,83,97,0,1,0,3,145,Pneumonia,Discharged to Home,5912.22
+Monday,Jun,F,Single,Medicare,Quit,Yes,No,No,No,No,No,No,No,84.6,32.91,180,62,66,98,9,0,0,9,115,Pneumonia,Discharged to Home,4149.45
+Monday,Jun,M,Married,Medicare,Never,No,No,No,No,No,Yes,Yes,No,68.1,29.17,198,69,107,97,4,1,0,3,118,Heart_Failure,Skilled Nursing Facility,20623.54
+Monday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,No,No,Yes,79.8,21.37,136,67,63,97,9,3,0,9,169,Heart_Failure,Discharged to Home,5844.64
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,87.4,33.23,173,60,68,97,1,7,0,5,205,Pneumonia,Skilled Nursing Facility,13745.84
+Monday,Jun,F,Married,Medicaid,Yes,No,No,No,No,No,No,No,No,49.8,46.41,262,63,60,97,0,0,0,1,169,Pneumonia,Discharged to Home,3699.03
+Monday,Jun,F,Single,Medicare,Yes,No,No,No,No,No,No,No,No,78.6,18.36,94,60,69,98,8,1,0,8,100,Pneumonia,Expired,1896.22
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,79.1,26.79,192,71,60,98,2,0,0,5,166,Pneumonia,Discharged to Home,2686.9
+Monday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,No,No,No,68.5,20.04,124,66,84,98,0,1,0,4,90,Pneumonia,Discharged to Home,7172.15
+Monday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,83.7,18.39,147,75,85,96,0,0,0,1,114,Pneumonia,Hospice,9743.35
+Monday,Jun,F,Married,Medicare,Never,No,No,No,No,No,No,No,No,55.2,43.84,306,70,95,98,5,3,2,10,211,Heart_Failure,Expired,12744.9
+Monday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,56.7,25.23,142,63,94,97,5,0,0,7,88,Pneumonia,Discharged to Home,3326.04
+Monday,Jun,M,Married,Medicare,Quit,No,Yes,No,No,No,No,No,No,87,30.28,199,68,106,98,1,0,0,5,135,Heart_Failure,Discharged to Home,4265.02
+Monday,Jun,M,Single,Medicaid,Yes,No,No,No,No,No,No,No,No,31.6,26.27,227,76,86,98,3,0,0,1,106,Pneumonia,Discharged to Home,3963.92
+Monday,Jun,F,Married,Commercial,Quit,No,No,No,No,No,No,Yes,No,60.9,37.48,232,66,53,98,7,0,0,8,209,Pneumonia,Discharged to Home,2285.89
+Monday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,85.9,25.23,129,60,81,97,7,0,0,5,232,Pneumonia,Home Health,3872.66
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,87.7,30.85,187,65,78,97,1,1,0,4,90,Pneumonia,Home Health,6752.61
+Tuesday,Jun,M,Single,Medicare,Yes,No,No,No,No,No,Yes,No,No,53.7,53.39053275,370,69,94,98,5,1,0,8,205,Heart_Failure,Skilled Nursing Facility,8688.31
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,81.1,25.1,155,66,71,98,7,7,0,10,158,Heart_Failure,Home Health,3199.33
+Tuesday,Jun,F,Married,Commercial,Yes,No,No,Yes,No,No,No,No,No,53.1,19.17,122,67,92,97,0,0,0,4,125,Pneumonia,Telehealth,7350.29
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,79.2,29.39,177,65,69,98,0,3,1,8,181,Heart_Failure,Home Health,3007.63
+Tuesday,Jun,M,Married,Medicare,Never,No,No,No,No,No,No,No,No,82.2,27,172,67,104,96,5,0,0,2,96,Heart_Failure,Telehealth,4816.66
+Tuesday,Jun,F,Married,Commercial,Never,Yes,No,No,No,Yes,No,No,No,40.2,32.71,185,63,108,98,3,2,0,6,89,Pneumonia,Telehealth,3887.83
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,81.7,22.67,172,,83,97,0,1,0,6,121,Pneumonia,Telehealth,6340.6
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,Yes,No,No,80.9,27.96,179,67,98,99,0,0,0,4,120,Pneumonia,Telehealth,3403.72
+Tuesday,Jun,F,Single,Medicare,Yes,No,No,No,No,No,No,Yes,No,63.5,39.24,243,66,65,98,4,1,0,24,250,Pneumonia,Telehealth,4405.7
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,Yes,No,No,No,No,82.5,22.66,167,72,85,98,0,0,1,2,101,Heart_Failure,Telehealth,4157.48
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,73.8,22.35,130,64,62,97,0,1,0,4,99,Heart_Failure,Telehealth,5425.28
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,85.4,29.4,217,72,61,98,0,1,0,15,116,Pneumonia,Telehealth,3547.27
+Tuesday,Jun,M,Married,Medicare,Quit,Yes,No,No,No,No,No,No,Yes,88.6,19.31,142,72,62,97,2,1,0,2,188,Heart_Failure,Skilled Nursing Facility,2615.25
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,85.9,28.95,143,59,92,97,2,4,0,13,123,Heart_Failure,Skilled Nursing Facility,1792.32
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,77.9,20.57,120,64,83,98,0,2,0,1,91,Heart_Failure,Skilled Nursing Facility,7273.55
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,79.5,26.44,142,61,73,99,0,1,0,1,139,Heart_Failure,Telehealth,3233.13
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,87.8,33.23,176,61,72,100,0,0,0,4,160,Heart_Failure,Skilled Nursing Facility,4171.64
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,78.6,30.38,218,71,72,98,2,0,0,19,182,Pneumonia,Telehealth,4489.4
+Tuesday,Jun,M,Single,Commercial,Never,No,No,No,No,No,Yes,No,Yes,87,17.75,146,76,128,100,10,1,1,6,93,Pneumonia,Expired,8171.4
+Tuesday,Jun,F,Married,Commercial,Quit,No,No,No,No,No,Yes,No,No,53.8,30.54,178,64,60,97,6,1,1,2,150,Heart_Failure,Telehealth,15306.92
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,70.6,33.75,222,68,82,99,2,3,0,17,268,Heart_Failure,Telehealth,3036.35
+Tuesday,Jun,M,Married,Medicare,Never,No,Yes,No,No,No,No,No,No,55.8,22.97,160,70,95,98,7,3,0,4,164,Pneumonia,Expired,6675.87
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,67.2,41.74,299,71,93,96,1,1,0,8,80,Heart_Failure,Home Health,6646.17
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,Yes,No,No,No,70.6,32.25,238,72,76,100,0,1,0,5,325,Heart_Failure,Home Health,6679.35
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,86.1,24.14,159,68,98,99,2,3,1,20,94,Pneumonia,Home Health,3864.11
+Tuesday,Jun,F,Married,Medicare,Never,No,No,No,No,No,No,No,No,71.4,33.94,237,70,89,98,0,1,0,6,184,Heart_Failure,Telehealth,3408.82
+Tuesday,Jun,F,Married,Medicare,Quit,Yes,No,No,No,No,No,No,No,69.1,20.97,130,66,65,98,6,5,1,21,78,Heart_Failure,Skilled Nursing Facility,15928.85
+Tuesday,Jun,M,Married,Medicare,Never,No,No,No,No,No,No,No,No,85.3,31.43,213,69,54,97,0,0,0,7,156,Pneumonia,Skilled Nursing Facility,6422.6
+Tuesday,Jun,M,Married,Commercial,Quit,Yes,No,No,No,No,Yes,No,No,46.9,19.95,164,76,70,95,8,13,0,6,182,Heart_Failure,Telehealth,2763.56
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,Yes,No,No,88.7,27.62,192,70,61,97,2,2,0,3,166,Heart_Failure,Telehealth,5622
+Tuesday,Jun,M,Married,Commercial,Quit,No,Yes,No,No,No,No,No,No,53.8,34.71,256,72,75,97,3,13,0,1,91,Heart_Failure,Telehealth,2964.8
+Tuesday,Jun,F,Married,Medicare,Never,No,No,No,No,No,No,No,No,82,21.91,120,62,78,99,0,0,0,5,158,Pneumonia,Telehealth,4702.21
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,Yes,No,No,78,41.48,281,69,76,98,0,7,0,8,70,Heart_Failure,Skilled Nursing Facility,18175.55
+Tuesday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,Yes,No,No,80.7,24.88,123,,96,97,8,0,0,9,97,Pneumonia,Telehealth,3660.85
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,75,25.35,172,69,77,95,2,12,0,8,136,Heart_Failure,Telehealth,4553.96
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,75,25.35,172,69,77,95,2,12,0,8,136,Heart_Failure,Telehealth,4553.96
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,75,25.35,172,69,77,95,2,12,0,8,136,Heart_Failure,Telehealth,4553.96
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,75,25.35,172,69,77,95,2,12,0,8,136,Heart_Failure,Telehealth,4553.96
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,Yes,No,No,85.9,26.2,177,69,90,99,2,9,0,10,71,Pneumonia,Skilled Nursing Facility,4092.82
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,73.2,32.74,215,68,56,99,0,6,0,11,321,Heart_Failure,Home Health,6186.15
+Tuesday,Jun,M,Single,Medicare,Quit,Yes,No,No,No,No,No,No,No,74.2,33.13,224,69,68,98,8,1,1,16,210,Pneumonia,Telehealth,6217.55
+Tuesday,Jun,M,Single,Medicare,Quit,Yes,No,No,No,No,No,No,No,74.2,33.13,224,69,68,98,8,1,1,16,210,Pneumonia,Telehealth,6217.55
+Tuesday,Jun,M,Single,Medicare,Quit,Yes,No,No,No,No,No,No,No,74.2,33.13,224,69,68,98,8,1,1,16,210,Pneumonia,Telehealth,6217.55
+Tuesday,Jun,M,Single,Medicare,Quit,Yes,No,No,No,No,No,No,No,74.2,33.13,224,69,68,98,8,1,1,16,210,Pneumonia,Telehealth,6217.55
+Tuesday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,No,No,No,70.7,31.46,195,66,90,99,0,8,1,12,195,Heart_Failure,Telehealth,7768.33
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,84,27.05,188,70,74,98,2,1,0,9,170,Pneumonia,Skilled Nursing Facility,9062.2
+Tuesday,Jun,F,Single,Medicare,Quit,No,Yes,No,No,No,No,No,No,59,42.08,277,68,77,99,2,0,0,3,80,Heart_Failure,Skilled Nursing Facility,8590.87
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,77.3,18.09,133,72,108,96,1,0,0,8,119,Pneumonia,Home Health,5094.12
+Tuesday,Jun,M,Married,Commercial,Never,No,No,No,No,No,No,No,No,55.7,31.52,246,74,90,99,4,0,0,6,275,Pneumonia,Telehealth,4357.66
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,68,24.11,132,62,55,97,7,4,0,2,133,Pneumonia,Telehealth,5630.61
+Tuesday,Jun,M,Married,Medicare,Never,No,No,No,No,No,No,No,No,68.1,25.08,170,69,80,99,0,0,0,3,80,Heart_Failure,Discharged to Home,3569.08
+Tuesday,Jun,M,Married,Commercial,Yes,No,No,No,No,No,Yes,No,No,68.3,34.94,216,66,60,98,0,8,0,14,271,Heart_Failure,Discharged to Home,14255.15
+Tuesday,Jun,M,Married,Commercial,Quit,No,No,No,No,No,No,No,No,61.9,36.79,294,75,99,97,3,1,0,1,203,Pneumonia,Discharged to Home,4106.92
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,No,No,No,54.3,51.74,351,69,85,98,0,1,0,6,145,Pneumonia,Discharged to Home,5088.45
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,Yes,88.8,29.99,164,62,82,98,8,0,2,5,95,Pneumonia,Skilled Nursing Facility,5927.16
+Tuesday,Jun,F,Single,Medicare,Never,Yes,No,No,No,No,No,No,No,81.5,25.64,154,65,87,98,0,0,0,9,172,Heart_Failure,Skilled Nursing Facility,12579.8
+Tuesday,Jun,M,Single,Commercial,Quit,No,Yes,No,No,No,No,No,Yes,62.3,33.75,229,69,94,97,4,0,0,2,303,Heart_Failure,Discharged to Home,7740.19
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,85.5,31.93,229,71,89,98,0,1,0,8,199,Heart_Failure,Skilled Nursing Facility,34284.84
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,75.4,32,192,65,68,98,2,0,0,4,133,Pneumonia,Discharged to Home,6730.42
+Tuesday,Jun,M,Married,Medicare,Never,No,No,No,No,No,Yes,No,No,89,19.53,140,71,72,98,2,2,0,12,128,Heart_Failure,Home Health,4213.83
+Tuesday,Jun,F,Married,Medicare,Never,No,No,No,No,No,Yes,Yes,No,80.1,50.02,256,,64,98,0,0,0,6,273,Heart_Failure,Skilled Nursing Facility,10501.54
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,No,68.7,40.78,223,62,80,99,0,0,0,5,207,Pneumonia,Discharged to Home,3252.98
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,72.6,36.83,215,64,76,99,0,0,0,4,158,Heart_Failure,Discharged to Home,7201.63
+Tuesday,Jun,M,Single,Medicare,Yes,No,No,No,No,No,No,No,No,65.8,36.61,262,71,110,98,0,5,0,4,196,Heart_Failure,Home Health,3172.02
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,80.2,26.18,153,64,69,97,0,1,0,16,106,Heart_Failure,Discharged to Home,6183.87
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,Yes,88.3,32.15,193,65,87,99,3,9,2,6,248,Pneumonia,Discharged to Home,3357.78
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,Yes,88.3,32.15,193,65,87,99,3,9,2,6,248,Pneumonia,Discharged to Home,3357.78
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,Yes,88.3,32.15,193,65,87,99,3,9,2,6,248,Pneumonia,Discharged to Home,3357.78
+Tuesday,Jun,F,Single,Medicare,Quit,No,No,No,No,No,No,No,Yes,88.3,32.15,193,65,87,99,3,9,2,6,248,Pneumonia,Discharged to Home,3357.78
+Tuesday,Jun,F,Married,Medicare,Never,No,No,No,No,No,No,No,No,75.6,25.44,148,64,80,98,4,6,0,17,200,Pneumonia,Home Health,3432.53
+Tuesday,Jun,F,Married,Medicare,Quit,No,No,No,No,No,No,No,No,51.3,32.97,186,63,82,99,8,2,0,5,168,Heart_Failure,Home Health,7187.56
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,79.3,28.96,190,68,60,97,2,1,0,12,135,Heart_Failure,Discharged to Home,1524.74
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,80.4,23.71,156,68,66,97,0,0,0,10,92,Heart_Failure,Skilled Nursing Facility,5596.01
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,59.3,37.07,190,60,107,97,10,0,0,6,142,Heart_Failure,Discharged to Home,2633.4
+Tuesday,Jun,F,Single,Medicare,Yes,Yes,No,No,No,No,No,No,No,76.7,22.93,138,65,91,97,4,5,0,5,97,Heart_Failure,Skilled Nursing Facility,17782.09
+Tuesday,Jun,F,Married,Medicare,Never,No,No,No,No,Yes,Yes,Yes,No,77.8,38.08,243,67,80,98,0,0,0,18,218,Heart_Failure,Discharged to Home,3286.83
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,58.4,17.55,96,62,100,99,0,4,0,7,107,Pneumonia,Discharged to Home,1875.36
+Tuesday,Jun,F,Married,Medicare,Quit,No,No,Yes,No,No,No,No,Yes,67,22.77,117,60,86,97,4,5,0,11,94,Pneumonia,Skilled Nursing Facility,3160.4
+Tuesday,Jun,M,Single,Medicare,Quit,No,No,No,No,No,Yes,No,No,81.2,33.46,220,68,60,98,0,3,0,17,302,Heart_Failure,Home Health,6053.33
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,Yes,No,No,84.2,35,244,70,97,98,0,0,0,6,75,Heart_Failure,Skilled Nursing Facility,33410.43
+Tuesday,Jun,M,Single,Medicare,Never,No,No,No,No,No,No,No,No,64.4,16.53,112,69,84,97,0,0,2,2,153,Pneumonia,Skilled Nursing Facility,4322.26
+Tuesday,Jun,F,Single,Medicare,Never,No,No,No,No,No,No,No,No,85.9,24.24,141,64,84,97,2,0,0,9,153,Pneumonia,Discharged to Home,5167.34
+Tuesday,Jun,F,Single,Medicare,Never,Yes,No,No,No,No,No,No,No,76.3,53.10554848,302,62,81,99,0,0,0,18,193,Heart_Failure,Skilled Nursing Facility,16676.37
+Tuesday,Jun,M,Married,Commercial,Never,No,No,No,No,No,No,No,No,55.6,33.99,251,72,79,98,2,0,0,1,111,Pneumonia,Discharged to Home,7694.31
+Tuesday,Jun,M,Married,Medicare,Quit,No,No,No,No,No,No,No,No,72.5,23.65,160,69,71,98,2,0,0,13,172,Heart_Failure,Skilled Nursing Facility,4032.19
