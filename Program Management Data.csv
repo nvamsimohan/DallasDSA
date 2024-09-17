@@ -1,0 +1,21 @@
+Project_ID,Project_Name,Project_Manager,Project_Start_Date,Project_End_Date,Project_Duration,Project_Cost,Project_Budget,Project_Utilization,Project_Team_Size,Project_Status,Project_Completion,Project_Risk,Project_Success,Project_Profitability
+1,Project A,John,1/1/2020,3/1/2020,2,10000,20000,50,10,On Track,80,2,1,10000
+2,Project B,Katie,2/1/2020,4/1/2020,2,15000,25000,60,15,On Track,85,2,1,15000
+3,Project C,Dave,3/1/2020,5/1/2020,2,20000,30000,70,20,On Track,90,2,1,20000
+4,Project D,Carol,4/1/2020,6/1/2020,2,25000,35000,80,25,On Track,95,2,1,25000
+5,Project E,John,5/1/2020,7/1/2020,2,30000,40000,90,30,On Track,98,2,1,30000
+6,Project F,Katie,6/1/2020,8/1/2020,2,35000,45000,100,35,On Track,99,2,1,35000
+7,Project G,Dave,7/1/2020,9/1/2020,2,40000,50000,90,40,On Track,95,3,0,0
+8,Project H,Carol,8/1/2020,10/1/2020,2,45000,55000,80,45,On Track,90,3,0,0
+9,Project I,John,9/1/2020,11/1/2020,2,50000,60000,70,50,On Track,85,3,0,0
+10,Project J,Katie,10/1/2020,12/1/2020,2,55000,65000,60,55,On Track,80,3,0,0
+11,Project K,Dave,11/1/2020,1/1/2021,2,60000,70000,50,60,On Track,75,3,0,0
+12,Project L,Carol,12/1/2020,2/1/2021,2,65000,75000,40,65,On Track,70,3,0,0
+13,Project M,John,1/1/2021,3/1/2021,2,70000,80000,30,70,On Track,65,4,1,10000
+14,Project N,Katie,2/1/2021,4/1/2021,2,75000,85000,20,75,On Track,60,4,1,15000
+15,Project O,Dave,3/1/2021,5/1/2021,2,80000,90000,10,80,On Track,55,4,1,20000
+16,Project P,Carol,4/1/2021,6/1/2021,2,85000,95000,20,85,On Track,60,4,1,25000
+17,Project Q,John,5/1/2021,7/1/2021,2,90000,100000,30,90,On Track,65,4,1,30000
+18,Project R,Katie,6/1/2021,8/1/2021,2,95000,105000,40,95,On Track,70,4,1,35000
+19,Project S,Dave,7/1/2021,9/1/2021,2,100000,110000,50,100,On Track,75,5,0,0
+20,Project T,Carol,8/1/2021,10/1/2021,2,105000,115000,60,105,On Track,80,5,0,0
