@@ -1,0 +1,71 @@
+School,District,Address,City,Zip,County,Low Grade,High Grade,Is Title I,Is Charter,Is Magnet,Is Virtual,Number Students,Number Full-time Teachers,Student/Teacher Ratio,,Percent Free/Disc Lunch,Percent African American,Percent American Indian,Percent Asian,Percent Hispanic,Percent Pacific Islander,Percent Two or More Races,Percent White
+CO School 1,Douglas County School District No. Re 1,509 Education Way,Westminster,80030,Adams County,7,12,Yes,Yes,No,No,2498,78.8,31.7,0.1220,12.2,10.1,0.1,2,47.2,0.8,2.5,37.3
+CO School 2,Poudre School District R-1,4652 Pine Road,Littleton,80120,Arapahoe County,5,12,Yes,No,No,No,1163,146.2,8,0.6470,64.7,19.5,1.1,5.5,58.9,0.9,7,7.1
+CO School 3,Douglas County School District No. Re 1,4841 Maple Drive,Loveland,80537,Larimer County,9,12,No,No,No,No,1535,41.7,36.8,0.3000,30,13,1.8,1.7,52.4,0.2,3.7,27.2
+CO School 4,Mesa County Valley School District No. 51,625 Learning Lane,Loveland,80537,Larimer County,PK,12,Yes,No,No,No,950,119.7,7.9,0.3970,39.7,9.2,0.8,2.5,41.5,0.4,5.1,40.5
+CO School 5,Denver Public Schools,8185 Maple Drive,Vail,81657,Eagle County,9,12,Yes,Yes,No,No,1656,71.8,23.1,0.8470,84.7,19.4,2.6,0.1,51.8,1,4.8,20.3
+CO School 6,Littleton School District No. 6,7223 Elm Street,Parker,80134,Douglas County,KG,12,No,No,No,No,811,93.8,8.6,0.1800,18,16.8,1.5,2,29.3,0.2,7.7,42.5
+CO School 7,Aurora Joint District No. 28,1932 College Ave,Colorado Springs,80903,El Paso County,7,12,Yes,No,No,Yes,2070,147.8,14,0.8330,83.3,2.5,2,9.5,15.7,0.8,5.2,64.3
+CO School 8,Pueblo School District No. 60,6218 Valley Road,Windsor,80550,Weld County,9,12,Yes,Yes,No,No,1022,108,9.5,0.1050,10.5,1.2,0.2,0.3,26.5,0.8,2.9,68.1
+CO School 9,Thompson School District R-2j,4081 Ridge Way,Glenwood Springs,81601,Garfield County,7,12,Yes,No,No,No,3066,14.5,211.4,0.5900,59,1.2,2.2,8,12.1,0.3,4.8,71.4
+CO School 10,Littleton School District No. 6,4192 Maple Drive,Steamboat Springs,80487,Routt County,9,12,Yes,No,No,Yes,462,167.1,2.8,0.7370,73.7,9.7,0.6,4,8.8,0.6,7.9,68.4
+CO School 11,Aurora Joint District No. 28,2636 Park Avenue,Aspen,81611,Pitkin County,7,12,No,No,No,No,314,13.8,22.8,0.4580,45.8,10.6,0.2,5.1,60.3,0.1,1.5,22.2
+CO School 12,Roaring Fork School District No. Re-1,1443 Summit Drive,Aurora,80010,Arapahoe County,9,12,No,No,No,No,1057,51.5,20.5,0.1980,19.8,9.1,2.8,9.4,5.6,0.9,4.9,67.3
+CO School 13,El Paso County Colorado School District 49,4445 Pine Road,Vail,81657,Eagle County,9,12,No,No,No,No,2961,57.9,51.1,0.8380,83.8,10.6,2,5.5,65.6,0.2,7.1,9
+CO School 14,Poudre School District R-1,4716 Falcon Way,Commerce City,80022,Adams County,5,12,Yes,No,No,No,288,21.2,13.6,0.4180,41.8,0.1,2.3,6.4,22,1.1,4.9,63.2
+CO School 15,Denver Public Schools,2542 Sunset Blvd,Lakewood,80215,Jefferson County,5,12,No,Yes,No,No,3340,175.1,19.1,0.1300,13,13.6,2,3.5,41.4,1.3,7.8,30.4
+CO School 16,Harrison School District No. 2,506 Elm Street,Erie,80516,Weld County,9,12,No,No,No,No,3305,127.7,25.9,,0,9.4,0.6,9.2,27.7,1.2,7.1,44.8
+CO School 17,St. Vrain Valley School District No. Re1J,4664 Maple Drive,Littleton,80120,Arapahoe County,5,12,No,No,No,No,193,25.2,7.7,0.8280,82.8,19.3,0.8,1.1,33.2,1.1,3.2,41.3
+CO School 18,Pueblo School District No. 60,7244 Main Street,Aurora,80010,Arapahoe County,9,12,No,No,No,No,1846,17.2,107.3,0.5980,59.8,6.3,2.5,7.2,24.5,0.5,3.9,55.1
+CO School 19,Academy School District No. 20,6988 University Blvd,Greeley,80631,Weld County,9,12,No,No,No,No,940,80.2,11.7,0.5350,53.5,9.3,1.3,2.1,35.8,1.4,6.6,43.5
+CO School 20,Douglas County School District No. Re 1,5591 Maple Drive,Vail,81657,Eagle County,PK,12,Yes,Yes,Yes,No,2026,112,18.1,0.6760,67.6,17.7,1.7,7.2,30,0.6,2,40.8
+CO School 21,Littleton School District No. 6,2981 Mountain View Dr,Loveland,80537,Larimer County,KG,12,No,No,No,No,1983,121.8,16.3,0.8410,84.1,19,2.7,6.1,51.8,0.8,6.8,12.8
+CO School 22,Pueblo School District No. 60,4150 Education Way,Castle Rock,80104,Douglas County,9,12,No,No,No,No,1192,63.8,18.7,0.7700,77,3,1.1,1.5,18.9,0.6,3.3,71.6
+CO School 23,Jefferson County School District No. R-1,6481 Eagle Drive,Erie,80516,Weld County,9,12,No,Yes,No,No,1796,99.2,18.1,0.6510,65.1,18,1.5,2.7,36.6,0.6,5.7,34.9
+CO School 24,Mesa County Valley School District No. 51,8851 Main Street,Pueblo,81003,Pueblo County,9,12,No,Yes,No,No,1971,36.8,53.6,0.2950,29.5,9.1,1,8.8,23.1,1.4,4,52.6
+CO School 25,Denver Public Schools,3773 Maple Drive,Grand Junction,81501,Mesa County,KG,12,No,Yes,Yes,No,597,87.9,6.8,0.1860,18.6,9.3,0.8,3.7,44.4,1.4,6,34.4
+CO School 26,Mesa County Valley School District No. 51,9533 University Blvd,Northglenn,80233,Adams County,7,12,Yes,No,No,No,3244,57.8,56.1,0.6130,61.3,15.9,1.7,0.4,39.6,1,1.5,39.9
+CO School 27,Littleton School District No. 6,7202 College Ave,Arvada,80002,Jefferson County,6,12,No,No,No,No,3390,165.9,20.4,0.6810,68.1,16.5,1.8,3.2,21,1.4,3,53.1
+CO School 28,Harrison School District No. 2,570 Ridge Way,Littleton,80120,Arapahoe County,6,12,No,No,No,No,2521,127.7,19.7,,0,19,0.3,7.2,36.8,1.1,5.8,29.8
+CO School 29,Douglas County School District No. Re 1,3730 University Blvd,Parker,80134,Douglas County,PK,12,No,No,No,No,3135,101.3,30.9,0.3640,36.4,6.1,0.7,7.2,25.5,1.1,7.7,51.7
+CO School 30,Eagle County School District No. Re 50,9759 Mountain View Dr,Commerce City,80022,Adams County,PK,12,No,No,No,No,1318,7.5,175.7,0.5010,50.1,19.5,1.7,7,13.2,1.3,4.4,52.9
+CO School 31,Academy School District No. 20,7316 Learning Lane,Glenwood Springs,81601,Garfield County,KG,12,Yes,No,No,Yes,2094,18,116.3,0.5720,57.2,3,1.7,3,69.6,0.2,6.4,16.1
+CO School 32,Roaring Fork School District No. Re-1,7353 Academy Blvd,Montrose,81401,Montrose County,9,12,No,No,No,No,3204,41.4,77.4,0.2580,25.8,3.1,0.5,0.8,5.2,0.7,5.2,84.5
+CO School 33,Douglas County School District No. Re 1,7538 Maple Drive,Parker,80134,Douglas County,PK,12,No,No,No,No,1821,25.1,72.5,0.2690,26.9,5.3,0.4,0.6,56.5,0.9,6.8,29.5
+CO School 34,Pueblo School District No. 60,6694 Education Way,Northglenn,80233,Adams County,9,12,No,Yes,Yes,No,1400,110.6,12.7,0.1190,11.9,13.5,2.6,5.9,6.3,1.1,6.7,63.9
+CO School 35,Academy School District No. 20,7345 Education Way,Telluride,81435,San Miguel County,9,12,No,No,No,No,1752,63.3,27.7,0.6030,60.3,6.6,2.1,2.9,66.4,1.2,4.9,15.9
+CO School 36,Pueblo School District No. 60,1999 University Blvd,Brighton,80601,Adams County,KG,12,No,No,No,No,1561,114,13.7,0.4740,47.4,1,0.8,1.3,23.7,1.3,4.4,67.5
+CO School 37,State Charter School Institute,9124 Main Street,Northglenn,80233,Adams County,9,12,Yes,No,No,No,561,118.3,4.7,0.2150,21.5,5.8,2.1,4.2,36.4,0.7,4.2,46.6
+CO School 38,Thompson School District R-2j,1243 Education Way,Pueblo,81003,Pueblo County,5,12,No,No,No,No,1302,151.6,8.6,0.5350,53.5,17.3,1.3,4.8,26.6,1.1,3.6,45.3
+CO School 39,Harrison School District No. 2,6830 Oak Avenue,Loveland,80537,Larimer County,9,12,No,No,No,No,3441,119.1,28.9,0.2140,21.4,2.5,2.9,3.3,11.5,1.3,1.7,76.8
+CO School 40,St. Vrain Valley School District No. Re1J,1325 Ridge Way,Centennial,80112,Arapahoe County,5,12,No,No,No,No,2842,155.4,18.3,0.3850,38.5,14.4,2.3,8.7,7.3,0.1,5.4,61.8
+CO School 41,Academy School District No. 20,1746 Valley Road,Arvada,80002,Jefferson County,PK,12,No,Yes,No,No,1615,80.4,20.1,0.2830,28.3,13.6,0.5,1.8,44.6,0.6,5.8,33.1
+CO School 42,St. Vrain Valley School District No. Re1J,4261 Valley Road,Steamboat Springs,80487,Routt County,KG,12,No,No,No,No,382,82.3,4.6,0.3590,35.9,12.8,1.3,2.5,59.9,0.3,3.7,19.5
+CO School 43,Aurora Joint District No. 28,9517 Academy Blvd,Grand Junction,81501,Mesa County,KG,12,No,No,No,No,2889,141.2,20.5,0.8300,83,14.9,2.5,9,55.4,0.3,6.6,11.3
+CO School 44,Aurora Joint District No. 28,1691 Oak Avenue,Pueblo,81003,Pueblo County,9,12,Yes,No,No,No,1418,135.8,10.4,0.2320,23.2,10.8,2.9,5.3,64.4,1.2,2.8,12.6
+CO School 45,Douglas County School District No. Re 1,1333 Pine Road,Steamboat Springs,80487,Routt County,9,12,No,No,No,No,137,51.3,2.7,0.1930,19.3,15,0.8,3.8,46.5,0.6,5.7,27.6
+CO School 46,Thompson School District R-2j,7706 Academy Blvd,Lakewood,80215,Jefferson County,9,12,Yes,No,No,No,478,46.1,10.4,0.5030,50.3,7.4,2.8,7,40.1,0.9,6.1,35.7
+CO School 47,El Paso County Colorado School District 49,4683 Oak Avenue,Erie,80516,Weld County,7,12,No,No,No,Yes,2888,69.3,41.7,0.7760,77.6,1.2,0.8,9.7,66.7,1.2,1.6,18.8
+CO School 48,Roaring Fork School District No. Re-1,4090 Pine Road,Littleton,80120,Arapahoe County,7,12,Yes,No,No,No,1034,62.5,16.5,0.2110,21.1,0.1,2.6,1.4,13.4,0.4,2.2,79.9
+CO School 49,Jefferson County School District No. R-1,9747 Learning Lane,Broomfield,80021,Broomfield County,6,12,Yes,Yes,No,No,340,88.3,3.9,0.6840,68.4,2.2,1.5,9.5,7.8,1.2,7.1,70.7
+CO School 50,Adams 12 Five Star Schools,6680 Summit Drive,Glenwood Springs,81601,Garfield County,9,12,No,No,No,No,687,16.5,41.6,0.3060,30.6,11,1,9.9,39.5,0.7,5.2,32.7
+CO School 51,Thompson School District R-2j,7498 School Drive,Durango,81301,La Plata County,5,12,No,No,No,No,1360,121.4,11.2,0.3810,38.1,18.5,0.2,8.3,11.1,0.1,6.2,55.6
+CO School 52,Thompson School District R-2j,6830 College Ave,Westminster,80030,Adams County,KG,12,No,No,No,No,951,32.1,29.6,0.4620,46.2,7,1.7,1.1,23.1,0.3,4,62.8
+CO School 53,Harrison School District No. 2,4577 Academy Blvd,Highlands Ranch,80126,Douglas County,5,12,Yes,No,No,No,661,134.7,4.9,0.8290,82.9,10.6,1.1,4.5,15.2,0.5,3.3,64.8
+CO School 54,Littleton School District No. 6,1436 Education Way,Fort Collins,80521,Larimer County,9,12,No,No,No,No,546,65.4,8.3,0.1830,18.3,11.9,1.6,3.1,19.3,1.5,1.4,61.2
+CO School 55,Adams 12 Five Star Schools,4842 Learning Lane,Castle Rock,80104,Douglas County,KG,12,No,No,No,No,1022,92.5,11,0.7250,72.5,1.4,2.6,0.4,6.2,1.4,7,81
+CO School 56,Jefferson County School District No. R-1,1987 University Blvd,Parker,80134,Douglas County,5,12,Yes,No,No,No,1562,20.4,76.6,0.7330,73.3,11.8,1.6,4,25.2,0.5,3.3,53.6
+CO School 57,El Paso County Colorado School District 49,8455 Park Avenue,Telluride,81435,San Miguel County,5,12,No,No,No,No,679,49.8,13.6,0.2300,23,15.2,0.2,9.5,45.8,0.7,4.9,23.7
+CO School 58,Weld County Reorganized School District No. Re-4,7305 Maple Drive,Centennial,80112,Arapahoe County,9,12,No,No,No,No,383,59.3,6.5,0.4390,43.9,16.6,0.2,8.6,60.6,0.9,4.5,8.6
+CO School 59,Weld County Reorganized School District No. Re-4,5367 Falcon Way,Greeley,80631,Weld County,9,12,Yes,Yes,No,No,1486,176.9,8.4,0.1630,16.3,0.8,2.1,9.9,39.1,0.9,3.5,43.7
+CO School 60,Harrison School District No. 2,5582 Maple Drive,Fort Collins,80521,Larimer County,9,12,No,No,No,No,2548,157.8,16.1,0.3500,35,2.8,1,9.7,50.4,0.6,5.2,30.3
+CO School 61,Thompson School District R-2j,8724 Maple Drive,Pueblo,81003,Pueblo County,9,12,No,No,No,No,3218,90.1,35.7,0.2700,27,1.5,2.5,1,55.1,1.3,7.2,31.4
+CO School 62,Academy School District No. 20,2627 Elm Street,Wheat Ridge,80033,Jefferson County,9,12,No,Yes,No,No,2850,130.9,21.8,0.8270,82.7,15,2.4,2.3,20.5,1.4,6.5,51.9
+CO School 63,Pueblo School District No. 60,6356 Mountain View Dr,Parker,80134,Douglas County,9,12,No,No,No,No,1104,14.1,78.3,0.4600,46,18.7,2.1,5.2,13.1,0.1,2.1,58.7
+CO School 64,El Paso County Colorado School District 49,3737 Valley Road,Thornton,80229,Adams County,KG,12,No,No,No,No,414,70.6,5.9,0.1210,12.1,16.8,1.9,7.9,13.9,0.4,6.8,52.3
+CO School 65,St. Vrain Valley School District No. Re1J,1398 Main Street,Denver,80202,Denver County,7,12,No,No,No,No,535,140.8,3.8,0.2780,27.8,4.8,1.9,6.2,9.1,1.3,4.5,72.2
+CO School 66,Jefferson County School District No. R-1,4872 Summit Drive,Centennial,80112,Arapahoe County,9,12,No,No,No,No,2224,175.6,12.7,0.1510,15.1,10.1,3,5.5,30.4,0.7,5.4,44.9
+CO School 67,Adams 12 Five Star Schools,5749 School Drive,Lakewood,80215,Jefferson County,9,12,No,No,Yes,No,3412,117.5,29,0.7230,72.3,19.6,1.4,1.8,13.8,1.1,7.6,54.7
+CO School 68,Aurora Joint District No. 28,786 Learning Lane,Greeley,80631,Weld County,9,12,No,No,No,Yes,2729,38.4,71.1,0.3680,36.8,17.3,1,1.2,28.9,1.3,6.2,44.1
+CO School 69,St. Vrain Valley School District No. Re1J,6118 Mountain View Dr,Aspen,81611,Pitkin County,9,12,No,Yes,No,No,2314,56.4,41,0.1770,17.7,5.9,1.3,7.2,15.8,0.7,4.1,65
+CO School 70,El Paso County Colorado School District 49,1329 University Blvd,Fort Collins,80521,Larimer County,9,12,No,No,No,No,2568,123.7,20.8,0.4290,42.9,4.7,1.9,3.6,66.7,0,2.1,21
